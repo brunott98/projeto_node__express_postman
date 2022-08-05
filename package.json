@@ -1,0 +1,24 @@
+{
+  "name": "projeto_postman",
+  "version": "1.0.0",
+  "description": "mini-projeto de api",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "postman"
+  ],
+  "author": "bruno teixeira tibério",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
